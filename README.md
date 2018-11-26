@@ -2,9 +2,9 @@
 ![tiled gliders](https://i.imgur.com/e66jDmH.gif)
 
 # What the heck am I looking at?
-[Rainmeter]() has a [shape meter](), which lets you draw various vector graphic shapes.
+[Rainmeter](https://rainmeter.net) has a [shape meter](https://docs.rainmeter.net/manual-beta/meters/shape), which lets you draw various vector graphic shapes.
 
-It also lets you define a [linear gradient]() for your shapes.
+It also lets you define a [linear gradient](https://docs.rainmeter.net/manual-beta/meters/shape/#DefiningGradients) for your shapes.
 
 Rainmeter (as of the current version, 4.3.0) doesn't let you draw pixels directly from Lua scripts.
 However, you can manipulate shapes without having to refresh the skin.
